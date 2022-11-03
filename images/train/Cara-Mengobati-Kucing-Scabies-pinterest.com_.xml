@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Cara-Mengobati-Kucing-Scabies-pinterest.com_.jpg</filename>
+	<path>D:\Tugas Akhir\sampel\train\Cara-Mengobati-Kucing-Scabies-pinterest.com_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>497</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kudis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>47</ymin>
+			<xmax>330</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kudis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>42</ymin>
+			<xmax>652</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

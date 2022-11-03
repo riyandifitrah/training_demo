@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>6233f8c020192.jpg</filename>
+	<path>D:\Tugas Akhir\sampel\train\6233f8c020192.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kudis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>4</ymin>
+			<xmax>584</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kudis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>131</ymin>
+			<xmax>384</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
