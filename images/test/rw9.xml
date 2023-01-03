@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>rw9.png</filename>
+	<path>D:\object_detection_google_colab\training_demo\images\test\rw9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>421</width>
+		<height>421</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ringworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>42</ymin>
+			<xmax>220</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>
