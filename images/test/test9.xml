@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>test9.jpg</filename>
+	<path>D:\object_detection_google_colab\training_demo\images\test\test9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>563</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tungau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>179</ymin>
+			<xmax>350</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>
