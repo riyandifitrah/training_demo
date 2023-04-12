@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train22.png</filename>
+	<path>D:\object_detection_google_colab\training_demo\images\train\train22.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kudis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>32</ymin>
+			<xmax>317</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

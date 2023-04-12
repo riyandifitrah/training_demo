@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train19.jpg</filename>
+	<path>D:\object_detection_google_colab\training_demo\images\train\train19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ringworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>120</ymin>
+			<xmax>296</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>
