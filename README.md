@@ -1,1 +1,2 @@
 # training_demo
+Pembuatan folder train_demo di github ini sebagai tempat penyimpanan dataset penyakit kulit kucing yang sebelumnya telah dilabeli dengan kelas kudis, tungau telinga, dan ringworm. Dataset tersebut akan dilatih menggunakan framework Tensorflow 2. Versi Tensorflow yang digunakan sebelumnya 2.5.0, namun setelah update terbaru pada google colab sebagai penyimpanan kode program pelatihan Tensorflow terjadi perubahan, sehingga mengubahnya menjadi Tensorflow 2.8.0
